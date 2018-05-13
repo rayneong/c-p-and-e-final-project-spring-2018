@@ -38,6 +38,8 @@ Also, assembling unfamiliar components was difficult. While we only needed to po
 - Week 5: Built the box. Integrated everything together. Final testing. Presentation.
 
 ## Gallery
+### Demo
+https://youtu.be/oNOQ-uCfrFw
 ### Proof of Concept
 ![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0548.JPG)
 ![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0788.JPG)
@@ -52,5 +54,6 @@ Also, assembling unfamiliar components was difficult. While we only needed to po
 ![final-build](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0567.JPG)
 ### Info Sheet
 ![info-sheet](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/info_sheet_print.jpg)
-### Demo
-https://youtu.be/oNOQ-uCfrFw
+
+## Reference
+https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/pinouts

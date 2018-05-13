@@ -53,4 +53,4 @@ Also, assembling unfamiliar components was difficult. While we only needed to po
 ### Info Sheet
 ![info-sheet](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/info_sheet_print.jpg)
 ### Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oNOQ-uCfrFw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://youtu.be/oNOQ-uCfrFw

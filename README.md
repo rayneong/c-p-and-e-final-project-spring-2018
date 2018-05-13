@@ -49,4 +49,5 @@ Also, assembling unfamiliar components was difficult. While we only needed to po
 ![building-C](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0561.JPG)
 ![building-D](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0562.JPG)
 ![final-build](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0567.JPG)
-### Flyer
+### Info Sheet
+![info-sheet](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/info_sheet_print.jpg)

@@ -43,7 +43,7 @@ Also, assembling unfamiliar components was difficult. While we only needed to po
 ![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0549.JPG)
 ### Input Planning
 ![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0550.JPG)
-![function-planning-2] c-p-and-e-final-project-spring-2018/images/IMG_0788.JPG
+![function-planning-2] (https://github.com/rayneong/c-p-and-e-final-project-spring-2018/images/IMG_0788.JPG)
 ### Building
 ![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0559.JPG)
 ![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0560.JPG)

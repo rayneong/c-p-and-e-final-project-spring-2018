@@ -1,45 +1,42 @@
-NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
-
-# Your Project Title Here
-
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+# Constellation
+## Laser-Based Interactive Musical Instrument
+We propose to build a laser-based interactive musical instrument: a device that allows users to play different sounds through the interaction with a series of laser rays. The user will step into the center of an arrangment of standing eclectic speakers, and will control an instrument that bridges the gap between electronic buzzers and classic glass harmonica.
 
 ## Team
-
-A list of your team members here.
+- Jimmy Xu
+- Mark Unger
+- Ryan Ong
 
 ## Summary
+The device is made up of two parts: (1) a series of buzzers surrounding (2) a central control box. Each buzzer is mounted on top of a post and is connected to the box in the center. The box consists of a number of laser diodes and an equal number of photoresistors. The diodes are placed on one side of the box and emit laser to the photoresistors that are on the other side of the box. The Feather Board reads the resistance and changes the sound (frequency, pitch, interval, etc.) of the buzzers accordingly.
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
+## Components
 
-Include a discussion how it will be interactive or responsive to the environment.
+### Hardware
+- Piezzo Buzzers
+- Laser diodes
+- Photoresistors
+- Laser Refractors (Prisms/Mirrors)
+- PVC Pipes
+- Bowls (Metal/Glass)
+- Water
+- Box
 
-## Component Parts
+### Software
+The program will detect the simultaneous change in resistance of different photoresistors caused by the user altering the paths of the lasers, and will adjust the collective frequency/harmonics of the buzzers accordingly.
 
-From what pieces did you build your project?
-
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+## Diagrams
+![diagram](https://github.com/rayneong/Constellation/blob/master/images/spec-diagram.png)
 
 ## Challenges
-
-A brief discussion of what was hard, challenging, or unexpected about your project.
+Since we have spent half of our time on ideating, we have limited amount of time to implement our idea. 
+Assembling unfamiliar components can be difficult.
+Integrating all components together can be messy and time-consuming.
 
 ## Timeline
+- Week 1: (passed) Ideation.
+- Week 2: (passed) Ideation.
+- Week 3: Build the instrument. Order components as needed. Finish most of the hardware. 
+- Week 4: Write the control program. Integrate all components. Polish the design.
+- Week 5: Final adjustments. Presentation.
 
-What did you do in each of the past five weeks?
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
-- Week 5: Present!
-
-## Completed Work
-
-Photos and videos of your completed final project!
-
-## References and links
-
-**Include a link to your final showcase one-pager here in PDF format.**
-
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.

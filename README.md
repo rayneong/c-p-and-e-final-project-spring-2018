@@ -41,9 +41,12 @@ Integrating all components together can be messy and time-consuming.
 - Week 5: Final adjustments. Presentation.
 
 ## Gallery
+### Proof of Concept
 ![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0548.JPG)
 ![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0549.JPG)
+### Input Planning
 ![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0550.JPG)
+### Building
 ![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0559.JPG)
 ![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0560.JPG)
 ![building-C](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0561.JPG)

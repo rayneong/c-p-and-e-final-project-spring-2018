@@ -45,7 +45,6 @@ https://youtu.be/oNOQ-uCfrFw
 ![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0788.JPG)
 ### Input Planning
 ![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0550.JPG)
-![function-planning-2](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0788.JPG?raw=true)
 ### Building
 ![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0559.JPG)
 ![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0560.JPG)

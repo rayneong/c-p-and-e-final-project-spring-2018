@@ -1,6 +1,6 @@
 # Constellation
 ## Laser-Based Interactive Musical Instrument
-We propose to build a laser-based interactive musical instrument: a device that allows users to play different sounds through the interaction with a series of laser rays. The user will step into the center of an arrangment of standing eclectic speakers, and will control an instrument that bridges the gap between electronic buzzers and classic glass harmonica.
+Constellation is a muscial instrument that allows users to play different sounds through the interaction with a series of laser rays.
 
 ## Team
 - Jimmy Xu
@@ -8,37 +8,34 @@ We propose to build a laser-based interactive musical instrument: a device that 
 - Ryan Ong
 
 ## Summary
-The device is made up of two parts: (1) a series of buzzers surrounding (2) a central control box. Each buzzer is mounted on top of a post and is connected to the box in the center. The box consists of a number of laser diodes and an equal number of photoresistors. The diodes are placed on one side of the box and emit laser to the photoresistors that are on the other side of the box. The Feather Board reads the resistance and changes the sound (frequency, pitch, interval, etc.) of the buzzers accordingly.
+The device is made up of two parts: (1) a series of buzzers surrounding (2) a central control box. Each buzzer is mounted on top of a post and is connected to the box in the center. The box is made of foamboard with 10 laser diodes and an equal number of photoresistors. The diodes are placed on two adjacent sides of the box with 7 on the longer side and 3 on the shorter side and emit laser to the photoresistors that are on the opposite sides of the box. The longer side maps to 7 different notes (CDEFGAB), and the shorter side represents three octaves (3/4/5). The Featherboard reads the resistance and changes the sound (frequency, pitch, interval, etc.) of the buzzers accordingly.
 
 ## Components
 
 ### Hardware
-- Piezzo Buzzers
-- Laser diodes
-- Photoresistors
-- Laser Refractors (Prisms/Mirrors)
-- PVC Pipes
-- Bowls (Metal/Glass)
-- Water
+- Adafruit Feather x 3
+- Piezzo Buzzers x 3
+- Laser diodes x 10
+- Photoresistors x 10
 - Box
+- Paper cups x 9 (7 as amplifiers, 2 as controllers)
 
 ### Software
-The program will detect the simultaneous change in resistance of different photoresistors caused by the user altering the paths of the lasers, and will adjust the collective frequency/harmonics of the buzzers accordingly.
+The program detects the simultaneous change in resistance of different photoresistors caused by the user blocking the paths of the lasers, and adjusts the collective frequency/harmonics of the buzzers accordingly. One featherboard reads the resistance through 10 analog pins and sends out frequencies to a buzzer. 
 
 ## Diagrams
 ![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/spec-diagram.png)
 
 ## Challenges
-Since we have spent half of our time on ideating, we have limited amount of time to implement our idea. 
-Assembling unfamiliar components can be difficult.
-Integrating all components together can be messy and time-consuming.
+First, since we spent half of our time on ideating, we had limited amount of time to implement our idea. It took longer than we expected to get the components and make the box. We only had a few days left when we started to build our final product.
+Also, assembling unfamiliar components was difficult. While we only needed to power the laser diodes, it was tricky to control three buzzers simultaneously. We found out that Featherboard does not support controlling multiple buzzers natively, and we could not find a working library. Therefore, we had to use 3 Featherboards with each one controlling a buzzer. As a result, it took us a whole day to build the circuit and debug (there were around 100 wires).
 
 ## Timeline
-- Week 1: (passed) Ideation.
-- Week 2: (passed) Ideation.
-- Week 3: Build the instrument. Order components as needed. Finish most of the hardware. 
-- Week 4: Write the control program. Integrate all components. Polish the design.
-- Week 5: Final adjustments. Presentation.
+- Week 1: Ideation.
+- Week 2: More ideation.
+- Week 3: Prototype built. Components ordered. Started to write the control program.
+- Week 4: Continued to write the control program. Individual testing on how each component worked. Started to design the box.
+- Week 5: Built the box. Integrated everything together. Final testing. Presentation.
 
 ## Gallery
 ### Proof of Concept
@@ -52,3 +49,4 @@ Integrating all components together can be messy and time-consuming.
 ![building-C](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0561.JPG)
 ![building-D](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0562.JPG)
 ![final-build](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0567.JPG)
+### Flyer

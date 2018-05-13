@@ -26,7 +26,7 @@ The device is made up of two parts: (1) a series of buzzers surrounding (2) a ce
 The program will detect the simultaneous change in resistance of different photoresistors caused by the user altering the paths of the lasers, and will adjust the collective frequency/harmonics of the buzzers accordingly.
 
 ## Diagrams
-![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/spec-diagram.png)
+![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/spec-diagram.png)
 
 ## Challenges
 Since we have spent half of our time on ideating, we have limited amount of time to implement our idea. 
@@ -41,11 +41,11 @@ Integrating all components together can be messy and time-consuming.
 - Week 5: Final adjustments. Presentation.
 
 ## Gallery
-![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0548.JPG)
-![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0549.JPG)
-![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0550.JPG)
-![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0559.JPG)
-![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0560.JPG)
-![building-C](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0561.JPG)
-![building-D](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0562.JPG)
-![final-build](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/tree/master/images/IMG_0567.JPG)
+![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0548.JPG)
+![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0549.JPG)
+![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0550.JPG)
+![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0559.JPG)
+![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0560.JPG)
+![building-C](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0561.JPG)
+![building-D](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0562.JPG)
+![final-build](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0567.JPG)

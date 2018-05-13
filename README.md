@@ -23,7 +23,7 @@ The device is made up of two parts: (1) a series of buzzers surrounding (2) a ce
 ### Software
 The program detects the simultaneous change in resistance of different photoresistors caused by the user blocking the paths of the lasers, and adjusts the collective frequency/harmonics of the buzzers accordingly. One featherboard reads the resistance through 10 analog pins and sends out frequencies to a buzzer. 
 
-## Diagrams
+### Diagrams
 ![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/spec-diagram.png)
 
 ## Challenges

@@ -8,7 +8,7 @@ Constellation is a musical instrument that allows users to play different sounds
 - Ryan Ong
 
 ## Summary
-The device is made up of two parts: (1) a series of buzzers surrounding (2) a central control box. Each buzzer is mounted on top of a post and is connected to the box in the center. The box is made of foamboard with 10 laser diodes and an equal number of photoresistors. The diodes are placed on two adjacent sides of the box with 7 on the longer side and 3 on the shorter side and emit laser to the photoresistors that are on the opposite sides of the box. The longer side maps to 7 different notes (CDEFGAB), and the shorter side represents three octaves (2/3/4). The Featherboard reads the resistance and changes the sound (frequency, pitch, interval, etc.) of the buzzers accordingly. Each Featherboard manages a unique harmonic of the desired note, culminating in a more unique sound and timbre. If multiple notes are triggered simultaneously, the machine will play an arpeggio of notes in ascending order.
+The device is made up of two parts: (1) a series of buzzers surrounding (2) a central control box. Each buzzer is mounted on top of a post and is connected to the box in the center. The box is made of foamboard with 10 laser diodes and an equal number of photoresistors. The diodes are placed on two adjacent sides of the box with 7 on the longer side and 3 on the shorter side and emit laser to the photoresistors that are on the opposite sides of the box, forming an interactive 'grid' of lasers. The longer side maps to 7 different notes (CDEFGAB), and the shorter side represents three octaves (2/3/4). The Featherboard reads the resistance and changes the sound (frequency, pitch, interval, etc.) of the buzzers accordingly. Each Featherboard manages a unique harmonic of the desired note, culminating in a more unique sound and timbre. If multiple notes are triggered simultaneously, the machine will play an arpeggio of notes in ascending order.
 
 ## Components
 
@@ -48,6 +48,8 @@ It was absolutely terrifying when some of the analog inputs did not print an exp
 ## Gallery
 ### Demo
 https://youtu.be/oNOQ-uCfrFw
+
+https://drive.google.com/open?id=1LxHWCpq_0OvA-4aB_q2Mr8GoRC6ZDl3A
 ### Proof of Concept
 ![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0548.JPG)
 ### Input Planning

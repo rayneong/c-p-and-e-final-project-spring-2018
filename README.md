@@ -66,4 +66,4 @@ https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/pinouts
 
 http://www.sengpielaudio.com/calculator-harmonics.htm
 
-https://www.sfmoma.org/publication/soundtracks/rafael-lozano-hemmer/
+https://www.sfmoma.org/publication/soundtracks/rafael-lozano-hemmer/ [see 'sphere-packing']

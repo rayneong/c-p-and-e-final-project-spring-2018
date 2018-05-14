@@ -30,7 +30,9 @@ During the development of the project, support for harmonic overtones was added 
 ![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/spec-diagram.png)
 
 ## Challenges
-First, since we spent half of our time on ideating, we had limited amount of time to implement our idea. It took longer than we expected to get the components and make the box. Our first shipment of lasers, from Amazon, was an empty bag with a gaping tear on the top. We had to wait for a reshipment of the lasers, and thus only had a few days left when we started to build our final product.
+First, since we spent half of our time on ideating, we had a limited amount of time to implement our idea. It took longer than we expected to get the components and make the box. Our first shipment of lasers, from Amazon, was an empty bag with a gaping tear on the top. We had to wait for a reshipment of the lasers, and thus we spent more time on fleshing out the concept and only had a few days left when we started to build our final product.
+
+Building the control box required cutting precision and a purchase of a hot-glue gun, as the standard glue was not able to sufficiently hold the standing walls in-place. It was difficult to create holes that were just big enough for the lasers and photoresistors to sit in, and eventually chopsticks were found to coincidentally be a good match for poking holes. Aligning the lasers to directly line-up with and hit their corresponding photoresistor required an incredible amount of patience for trial-and-errors.
 
 Also, assembling unfamiliar components was difficult. While we only needed to power the laser diodes, it was tricky to control three buzzers simultaneously. During prototype, we found out that Featherboards do not support simultaneous control of multiple buzzers natively, and we could not find a working library. After exploring options including a slave-master-relay configuration, we decided to use 3 Featherboards that shared the output signals from the photoresistors, with each one controlling a buzzer. As a result, it took one day to build the circuit, and another day to debug (there were around 100 wires). Plenty of wires were cut and stripped, and plenty of thumbs and teeth were sore in the process of doing so. 
 
@@ -61,5 +63,7 @@ https://youtu.be/oNOQ-uCfrFw
 
 ## Reference
 https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/pinouts
+
 http://www.sengpielaudio.com/calculator-harmonics.htm
+
 https://www.sfmoma.org/publication/soundtracks/rafael-lozano-hemmer/

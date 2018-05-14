@@ -27,7 +27,8 @@ The program detects the simultaneous change in resistance of different photoresi
 ![diagram](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/spec-diagram.png)
 
 ## Challenges
-First, since we spent half of our time on ideating, we had limited amount of time to implement our idea. It took longer than we expected to get the components and make the box. We only had a few days left when we started to build our final product.
+First, since we spent half of our time on ideating, we had limited amount of time to implement our idea. It took longer than we expected to get the components and make the box. Our first shipment of lasers, from Amazon, was an empty bag with a gaping tear on the top. We had to wait for a reshipment of the lasers, and thus only had a few days left when we started to build our final product.
+
 Also, assembling unfamiliar components was difficult. While we only needed to power the laser diodes, it was tricky to control three buzzers simultaneously. We found out that Featherboard does not support controlling multiple buzzers natively, and we could not find a working library. Therefore, we had to use 3 Featherboards with each one controlling a buzzer. As a result, it took us a whole day to build the circuit and debug (there were around 100 wires).
 
 ## Timeline

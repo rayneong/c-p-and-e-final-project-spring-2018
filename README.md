@@ -48,9 +48,8 @@ It was absolutely terrifying when some of the analog inputs did not print an exp
 https://youtu.be/oNOQ-uCfrFw
 ### Proof of Concept
 ![prototype-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0548.JPG)
-![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0788.JPG)
 ### Input Planning
-![function-planning](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0550.JPG)
+![prototype-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0788.JPG)
 ### Building
 ![building-A](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0559.JPG)
 ![building-B](https://github.com/rayneong/c-p-and-e-final-project-spring-2018/blob/master/images/IMG_0560.JPG)

@@ -1,6 +1,6 @@
 # Constellation
 ## Laser-Based Interactive Musical Instrument
-Constellation is a muscial instrument that allows users to play different sounds through the interaction with a series of laser rays.
+Constellation is a musical instrument that allows users to play different sounds through the interaction with a series of laser rays.
 
 ## Team
 - Jimmy Xu
